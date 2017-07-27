@@ -5,7 +5,7 @@ unsigned long RetardoLectura;
 
 // Your GPRS credentials
 // Leave empty, if missing user or pass
-#define apn "broadband.tigo.gt"
+#define apn "internet.ideasclaro"
 #define user ""
 #define pass ""
  
